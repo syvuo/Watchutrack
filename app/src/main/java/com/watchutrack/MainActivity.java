@@ -1,8 +1,7 @@
-package com.example.sly_desktop.helloworld;
+package com.watchutrack;
 
 import android.os.Bundle;
 import android.support.design.widget.FloatingActionButton;
-import android.support.design.widget.Snackbar;
 import android.support.v7.widget.PopupMenu;
 import android.view.View;
 import android.support.design.widget.NavigationView;

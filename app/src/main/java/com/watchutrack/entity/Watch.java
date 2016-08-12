@@ -1,8 +1,8 @@
-package com.example.sly_desktop.helloworld.entity;
+package com.watchutrack.entity;
 
-import com.example.sly_desktop.helloworld.timekeeping.Accuracy;
-import com.example.sly_desktop.helloworld.timekeeping.AccuracyRating;
-import com.example.sly_desktop.helloworld.timekeeping.TimeInput;
+import com.watchutrack.timekeeping.Accuracy;
+import com.watchutrack.timekeeping.AccuracyRating;
+import com.watchutrack.timekeeping.TimeInput;
 
 import java.util.List;
 

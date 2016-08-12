@@ -1,4 +1,4 @@
-package com.example.sly_desktop.helloworld;
+package com.watchutrack;
 
 import org.junit.Test;
 

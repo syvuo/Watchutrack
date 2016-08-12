@@ -1,4 +1,4 @@
-package com.example.sly_desktop.helloworld;
+package com.watchutrack;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;

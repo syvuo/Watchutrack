@@ -1,4 +1,4 @@
-package com.example.sly_desktop.helloworld.ui;
+package com.watchutrack.ui;
 
 import android.app.ListActivity;
 
