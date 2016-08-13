@@ -20,8 +20,7 @@ public class Watch {
     private String model;
     private AccuracyRating accuracyRating;
 
-    private List<TimeInput> timeInputs;
-    private Accuracy accuracy;
+    private List<Accuracy> accuracyList;
 
     public Watch(String pBrand, String pSeries, String pModel, AccuracyRating pAccuracyRating){
         this.brand = pBrand;
