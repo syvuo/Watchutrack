@@ -9,10 +9,10 @@ import lombok.Data;
 @Data
 public class AccuracyRating {
 
-    private Short plus;
-    private Short minus;
+    private float plus;
+    private float minus;
 
-    public AccuracyRating(Short pPlus, Short pMinus){
+    public AccuracyRating(float pPlus, float pMinus){
         this.plus = pPlus;
         this.minus = pMinus;
     }
